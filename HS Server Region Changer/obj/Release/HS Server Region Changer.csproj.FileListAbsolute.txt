@@ -1,0 +1,12 @@
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\bin\Release\HS Server Region Changer.exe.config
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\bin\Release\HS Server Region Changer.exe
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\bin\Release\HS Server Region Changer.pdb
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS_Server_Region_Changer.About.resources
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS_Server_Region_Changer.ChangeProfile.resources
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS_Server_Region_Changer.CreateProfile.resources
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS_Server_Region_Changer.Main.resources
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS_Server_Region_Changer.Properties.Resources.resources
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS Server Region Changer.csproj.GenerateResource.cache
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS Server Region Changer.csproj.CoreCompileInputs.cache
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS Server Region Changer.exe
+D:\Users\Apr1c07\source\repos\HS Server Region Changer\HS Server Region Changer\obj\Release\HS Server Region Changer.pdb
